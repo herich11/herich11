@@ -5,7 +5,7 @@ Saya adalah seorang pengembang perangkat lunak yang bersemangat, dengan minat ut
 ## Tentang Saya
 
 - 🎓 Saya lulus dari Universitas Kahuripan Kediri dengan gelar dalam Teknik Informatika.
-- 💼 Saat ini saya bekerja di UKK sebagai IT Support.
+- 💼 Saat ini saya bekerja sebagai Web and Android Developer.
 - 💻 Pengalaman saya meliputi pengembangan web, pembelajaran mesin, dan pengembangan aplikasi mobile.
 - 🌱 Saya sedang mempelajari tentang DevOps dan teknologi berbasis cloud.
 
